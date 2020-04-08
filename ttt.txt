@@ -1,4 +1,1 @@
-material design
-mobile hig
-
-git clone https://github.com/shadysamara/iugLectures.git
+this is for the new branch only
